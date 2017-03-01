@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://www.hackerrank.com/contests/university-codesprint-2/challenges/game-of-two-stacks
+[DOC_fb_xdm_frame_https]
+BASEURL=https://staticxx.facebook.com/connect/xd_arbiter/r/ao6eUeuGXQq.js?version=42
+ORIGURL=https://staticxx.facebook.com/connect/xd_arbiter/r/ao6eUeuGXQq.js?version=42#channel=f15280d15993f75&origin=https%3A%2F%2Fwww.hackerrank.com
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://www.hackerrank.com/contests/university-codesprint-2/challenges/game-of-two-stacks
+IDList=
+IconFile=https://hrcdn.net/hackerrank/assets/favicon-5bb50091f1911aa90950eca8b575d496.ico
+IconIndex=1
