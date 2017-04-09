@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://codeforces.com/contest/789/problem/A
+[DOC_fb_xdm_frame_http]
+BASEURL=https://staticxx.facebook.com/connect/xd_arbiter/r/1FegrZjPbq3.js?version=42
+ORIGURL=http://staticxx.facebook.com/connect/xd_arbiter/r/1FegrZjPbq3.js?version=42#channel=fe019c1e79950c&origin=http%3A%2F%2Fcodeforces.com
+[DOC_fb_xdm_frame_https]
+BASEURL=https://staticxx.facebook.com/connect/xd_arbiter/r/1FegrZjPbq3.js?version=42
+ORIGURL=https://staticxx.facebook.com/connect/xd_arbiter/r/1FegrZjPbq3.js?version=42#channel=fe019c1e79950c&origin=http%3A%2F%2Fcodeforces.com
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://codeforces.com/contest/789/problem/A
+IDList=
+IconFile=http://st.codeforces.com/s/82406/favicon.png
+IconIndex=1
