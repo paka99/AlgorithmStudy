@@ -1,31 +1,3 @@
-#include <cstdio>
-#include <cstdlib>
-#include <iostream>
-#include <vector>
-#include <map>
-#include <algorithm>
-#include <set>
-#include <queue>
-#include <ctime>
-#include <list>
-#include <cmath>
-#include <string>
-#include <stack>
-#include <intrin.h>
-
-using namespace std;
-
-typedef long long int ll;
-typedef unsigned long long int ull;
-
-#define FOR(nn) for(int ii = 0; ii < (nn); ii++)
-#define FOR2(jj, nn) for(int jj = 0; jj < (nn); (jj)++)
-#define FOR3(aa, nn) for(int ii = (aa); ii < (nn); ii++)
-#define FORe(ii, nn) for(int ii = 1; ii <= nn; ii++)
-#define SIZE(a) ((int)(a).size())
-
-#define MOD (1000000007)
-
 #include <vector>
 #include <list>
 #include <map>
